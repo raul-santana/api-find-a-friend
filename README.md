@@ -4,7 +4,7 @@ Este projeto consiste no desenvolvimento de uma aplicação para gerenciar a ado
 
 
 ## Protótipo da Aplicação
-[text](https://www.figma.com/community/file/1220006040435238030)
+[Protótipo no Figma](https://www.figma.com/community/file/1220006040435238030)
 
 
 ### RFs (Requisitos funcionais) --> Ação que deve acontecer
