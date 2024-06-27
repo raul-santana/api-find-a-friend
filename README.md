@@ -31,12 +31,12 @@ Este projeto consiste no desenvolvimento de uma aplicação para gerenciar a ado
 
 ## ⚒️ Tecnologias Utilizadas
 
-    🔴 Fastify <br/>
-    🔴 Prisma <br/>
-    🔴 PostgreSQL <br/>
-    🔴 bcryptjs <br/>
-    🔴 zod <br/> 
-    🔴 vitest <br/>
+    🔴 Fastify
+    🔴 Prisma
+    🔴 PostgreSQ
+    🔴 bcryptjs
+    🔴 zod 
+    🔴 vitest
 
 ## 🆘 Como Executar o Projeto
 
