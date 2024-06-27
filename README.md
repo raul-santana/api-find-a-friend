@@ -49,11 +49,11 @@ Este projeto consiste no desenvolvimento de uma aplicação para gerenciar a ado
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/raul-santana/03-node-api-solid
+    git clone https://github.com/raul-santana/api-find-a-friend
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd 03-node-api-solid
+    cd api-find-a-friend
     ```
 3. Instale as dependências:
     ```bash
