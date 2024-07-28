@@ -49,7 +49,7 @@ Este projeto consiste no desenvolvimento de uma aplicação para gerenciar a ado
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/raul-santana/api-find-a-friend
+    git clone https://github.com/raulcaldeira/api-find-a-friend
     ```
 2. Navegue até o diretório do projeto:
     ```bash
